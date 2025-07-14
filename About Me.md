@@ -9,3 +9,13 @@
 ### Hotel Kasyyyk
 https://github.com/BHASVIC-CompSci/Hotel-Kashyyyk.git
 ### Our group was tasked to create a system for a fictional hotel. This involved using procedural programming in the language C. We had to create a check in system, and dining table booking system and a check out system. I was in charge of the check out system, and my code was successful.
+## Java tasks
+https://github.com/BHASVIC-CompSci/JemJava.git
+https://github.com/BHASVIC-CompSci/JemJavaTask2.git
+https://github.com/BHASVIC-CompSci/JemJavaTask3.git
+https://github.com/BHASVIC-CompSci/JemJavaTask4.git
+https://github.com/BHASVIC-CompSci/JemJavaTask5.git
+## These tasks were how we learned Java in class. They involved learning about object orientated programming (OOP), encapsulation, and accessors and mutators. i completed them all with all my code being fully functional and meeting the requirements of the tasks provided.
+## Pseudocode challenges
+https://github.com/BHASVIC-CompSci/PseudocodeChallenges.git
+## This task involved using mine and other people's psuedocode, and turining it into a version of code that works fully to perform the task required. Whilst it was challenging using other people's code, most of the tasks were completed successfully.
